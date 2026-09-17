@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "username": "joe",
+    "passwordHash": "$2b$10$exampleHash",
+    "role": "customer"
+  },
+  {
+    "id": 2,
+    "username": "bob",
+    "passwordHash": "$2b$10$mFDf.ixmwOOr/WLJLTrVo.Q62PRin9l/KTV353iTYAJ.CBcFsbaXq",
+    "role": "customer"
+  },
+  {
+    "id": 3,
+    "username": "alice",
+    "passwordHash": "$2b$10$KiBG3.rMbw/KG7v7Gp1NQezfe9yL8DZYDr4qUo9V3Q.4x9OJnUuIO",
+    "role": "admin"
+  }
+]
